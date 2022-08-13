@@ -1,0 +1,72 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+59,Saint George,US,93.43,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
+88,Cabo San Lucas,MX,95.61,few clouds,22.8909,-109.9124,Hotel Tesoro Los Cabos
+124,Sandpoint,US,91.15,clear sky,48.2766,-116.5533,Hotel Ruby Sandpoint/Ponderay
+139,Hurghada,EG,93.24,clear sky,27.2574,33.8129,Sea Star Beau Rivage Hotel
+164,Saint George,US,93.43,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
+175,Cabo San Lucas,MX,95.61,few clouds,22.8909,-109.9124,Hotel Tesoro Los Cabos
+188,Bethel,US,90.63,clear sky,41.3712,-73.414,Courtyard by Marriott Danbury
+212,Saint George,US,93.43,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
+238,Elesbao Veloso,BR,95.85,scattered clouds,-6.2019,-42.1403,Pousada Paraiso
+243,Stephenville,US,98.92,scattered clouds,32.2207,-98.2023,La Quinta Inn & Suites by Wyndham Stephenville
+248,Bethel,US,90.63,clear sky,41.3712,-73.414,Courtyard by Marriott Danbury
+265,Fernley,US,92.57,clear sky,39.608,-119.2518,Super 8 by Wyndham Fernley
+276,Saint George,US,93.43,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
+336,Bethel,US,90.63,clear sky,41.3712,-73.414,Courtyard by Marriott Danbury
+364,Abu Dhabi,AE,95.02,overcast clouds,24.4667,54.3667,Beach Rotana
+437,Bethel,US,90.63,clear sky,41.3712,-73.414,Courtyard by Marriott Danbury
+466,Bilma,NE,97.3,scattered clouds,18.6853,12.9164,Expeditions Ténére voyages
+476,Bethel,US,90.63,clear sky,41.3712,-73.414,Courtyard by Marriott Danbury
+528,Hilo,US,90.28,broken clouds,19.7297,-155.09,Hilo Hawaiian Hotel
+536,Hilo,US,90.28,broken clouds,19.7297,-155.09,Hilo Hawaiian Hotel
+579,Pahrump,US,98.44,broken clouds,36.2083,-115.9839,Best Western Pahrump Oasis
+616,Riberalta,BO,91.17,clear sky,-10.9833,-66.1,Hotel Colonial
+656,Princeton,US,91.99,overcast clouds,25.5384,-80.4089,American Best Inn
+676,Hilo,US,90.28,broken clouds,19.7297,-155.09,Hilo Hawaiian Hotel
+698,Saint George,US,94.42,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
+720,Cabo San Lucas,MX,95.61,broken clouds,22.8909,-109.9124,Hotel Tesoro Los Cabos
+737,Bethel,US,90.63,clear sky,41.3712,-73.414,Courtyard by Marriott Danbury
+750,Jacareacanga,BR,97.68,clear sky,-6.2222,-57.7528,Casa do Ian😎
+763,Saint George,US,94.42,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
+774,Ciudad Bolivar,VE,92.62,broken clouds,8.1222,-63.5497,Hotel Edi
+804,Camargo,MX,91.0,clear sky,27.6667,-105.1667,Hotel Santa Fe
+834,Hilo,US,90.28,overcast clouds,19.7297,-155.09,Hilo Hawaiian Hotel
+851,Rancho Palos Verdes,US,99.99,few clouds,33.7445,-118.387,Terranea Resort
+859,Hilo,US,90.28,overcast clouds,19.7297,-155.09,Hilo Hawaiian Hotel
+872,Laguna,US,92.17,clear sky,38.421,-121.4238,"Holiday Inn Express & Suites Elk Grove Central - Hwy 99, an IHG Hotel"
+917,Dalbandin,PK,91.13,clear sky,28.8947,64.4101,Sanjrani House
+931,Saint George,US,94.42,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
+953,Ipu,BR,91.58,broken clouds,-4.3222,-40.7108,Our hostel Corner
+971,San Patricio,US,98.17,overcast clouds,28.017,-97.5169,"Motel 6 Sinton, TX"
+987,Saint George,US,94.42,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
+1025,Bethel,US,90.63,clear sky,41.3712,-73.414,Courtyard by Marriott Danbury
+1043,Hilo,US,90.28,overcast clouds,19.7297,-155.09,Hilo Hawaiian Hotel
+1056,Balsas,BR,98.19,clear sky,-7.5325,-46.0356,Novo Hotel
+1065,Cabo San Lucas,MX,95.61,few clouds,22.8909,-109.9124,Hotel Tesoro Los Cabos
+1112,Panaba,MX,94.14,broken clouds,21.2833,-88.2667,Hotel Don Fernando
+1150,Bethel,US,90.63,clear sky,41.3712,-73.414,Courtyard by Marriott Danbury
+1166,Aswan,EG,95.61,broken clouds,24.0934,32.907,Nuba Nile
+1174,Hilo,US,90.28,overcast clouds,19.7297,-155.09,Hilo Hawaiian Hotel
+1209,Conceicao Do Araguaia,BR,98.28,broken clouds,-8.2578,-49.2647,Tarumã Tropical Hotel
+1225,Hilo,US,90.28,overcast clouds,19.7297,-155.09,Hilo Hawaiian Hotel
+1228,Hilo,US,90.28,overcast clouds,19.7297,-155.09,Hilo Hawaiian Hotel
+1231,Coffeyville,US,96.85,clear sky,37.0373,-95.6164,Regal Inn
+1235,Alta Floresta,BR,91.22,clear sky,-9.8756,-56.0861,Floresta Amazonica Hotel
+1243,Iranshahr,IR,97.14,broken clouds,27.2025,60.6848,نیک سرشت
+1258,Cabo San Lucas,MX,95.61,few clouds,22.8909,-109.9124,Hotel Tesoro Los Cabos
+1266,Hilo,US,90.28,overcast clouds,19.7297,-155.09,Hilo Hawaiian Hotel
+1278,Sakakah,SA,94.57,clear sky,29.9697,40.2064,Fakhamat Al Orjoana Apartment
+1324,Todos Santos,MX,98.04,scattered clouds,23.45,-110.2167,Hotel California Todos Santos
+1358,Hilo,US,90.28,overcast clouds,19.7297,-155.09,Hilo Hawaiian Hotel
+1464,Saint George,US,93.43,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
+1480,Bilma,NE,97.3,scattered clouds,18.6853,12.9164,Expeditions Ténére voyages
+1491,Liberal,US,94.24,clear sky,37.0431,-100.921,Hampton Inn & Suites Liberal
+1526,Mitchell,US,91.38,clear sky,43.7094,-98.0298,Kelly Inn & Suites
+1530,Bilma,NE,97.3,scattered clouds,18.6853,12.9164,Expeditions Ténére voyages
+1553,Shahdadkot,PK,94.28,few clouds,27.8477,67.9055,Gold Star Baloch Hotel & Restaurant
+1641,Jacareacanga,BR,97.68,clear sky,-6.2222,-57.7528,Casa do Ian😎
+1659,Helena,US,95.25,clear sky,46.5927,-112.0361,"Holiday Inn Express & Suites Helena, an IHG Hotel"
+1686,San Patricio,US,98.17,overcast clouds,28.017,-97.5169,"Motel 6 Sinton, TX"
+1717,Ceres,US,95.79,clear sky,37.5949,-120.9577,Howard Johnson by Wyndham Modesto Ceres
+1801,Hilo,US,90.28,overcast clouds,19.7297,-155.09,Hilo Hawaiian Hotel
+1826,Kingman,US,94.19,few clouds,35.1894,-114.053,Rodeway Inn Kingman Route 66
